@@ -6,4 +6,4 @@ ShaderLab implementation of color-dithering and pixellation screen-effect.
 ![Noise Factor comparison](https://github.com/anhede/unity-dithershader/blob/main/combine_images.png)
 
 ### Different palettes
-![Various palettes](https://github.com/anhede/unity-dithershader/blob/main/combine_images.png(1))
+![Various palettes](https://github.com/anhede/unity-dithershader/blob/main/combine_images(1).png)
